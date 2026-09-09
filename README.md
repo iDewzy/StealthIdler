@@ -23,3 +23,4 @@
 
 * **Resource-Efficient Rust Engine**  
   Native backend architecture emulates game presence without launching game executables, rendering 3D assets, or injecting code into system processes.
+<img width="1919" height="1024" alt="Ekran görüntüsü 2026-09-09 185427" src="https://github.com/user-attachments/assets/763b7cb5-d428-481f-8cfc-52054e990349" />
